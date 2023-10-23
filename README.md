@@ -14,6 +14,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+     - [ Link to hello-react-front-end](#front-end)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -48,6 +49,16 @@ hello-rails-back-end is an api app build using rails for backend that displays a
 - **API endpoint**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Link to front-end -->
+
+## Front-end <a name="front-end"></a>
+
+- This is hello-react-front-end application <a href="https://github.com/cosywasswa/hello-react-front-end">Front-end Link</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 <!-- GETTING STARTED -->
